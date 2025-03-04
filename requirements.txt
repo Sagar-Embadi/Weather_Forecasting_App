@@ -1,0 +1,9 @@
+
+Required modules to install
+
+    1. requests
+    2. pytest #for testing purpose only
+
+websites: OpenWeathermap.org
+
+    we need API KEY ( use the API KEY used in project.py file )
